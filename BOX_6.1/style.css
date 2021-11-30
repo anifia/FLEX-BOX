@@ -1,0 +1,41 @@
+.container{
+    border: 2px solid black;
+    width: 1fr;
+    height: 350px;
+    background: palevioletred;
+    margin: 10px;
+}
+.container-atas{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.img1{
+    border: 2px solid black;
+}
+.img2{
+    border: 2px solid black;
+}
+.img3{
+    border: 2px solid black;
+}
+.container-bawah{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.img4{
+    border: 2px solid black;
+}
+.img5{
+    border: 2px solid black;
+}
+.img6{
+    border: 2px solid black;
+}
+.img7{
+    border: 2px solid black;
+}
+.img8{
+    border: 2px solid black;
+}
